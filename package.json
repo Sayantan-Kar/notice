@@ -19,7 +19,7 @@
     "react-native-pdf": "^6.0.0",
     "react-native-pdf-view": "^0.3.2",
     "react-native-pdf-viewer": "^0.1.1",
-    "react-native-reanimated": "~1.2.0",
+    "react-native-reanimated": "~2.10.0",
     "react-native-snap-carousel": "^3.8.4",
     "react-native-view-pdf": "^0.10.1",
     "react-native-web": "^0.11.7",
